@@ -2,7 +2,7 @@ Youtube video perestation link:  https://youtu.be/epvx6rg5c5c
 
 
 
-Slide link: https://docs.google.com/presentation/d/1Jcq6a5-M7FTm3dZgjOxZHJuWptX9WCtehS3OHrPGthA/edit#slide=id.g101cbb2caf0_0_357
+Slide link: https://docs.google.com/presentation/d/1_iYTbaNh_g_k4ndPVZu8BrRv3RJ8t-1ttsSWn2sga2Q/edit?usp=sharing
 
 
 Paper Title : Enhancing Model Robustness and Fairness with Causality: A Regularization Approach
