@@ -15,10 +15,12 @@ Pearson
 
 
 
-Link to the book: https://web.stanford.edu/~jurafsky/slp3/
+Link to the book: 
+https://web.stanford.edu/~jurafsky/slp3/
 
 
-Link to the book chapter: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+Link to the book chapter: 
+https://web.stanford.edu/~jurafsky/slp3/5.pdf
 
 
 Group Number:
