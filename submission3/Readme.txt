@@ -20,7 +20,7 @@ https://web.stanford.edu/~jurafsky/slp3/
 
 
 Link to the book chapter: 
-https://web.stanford.edu/~jurafsky/slp3/5.pdf
+https://web.stanford.edu/~jurafsky/slp3/25.pdf
 
 
 Group Number:
