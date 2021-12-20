@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 
-Link to the Concept Map: https://app.diagrams.net/#G1GLXAjwY9xmQ_u3YMg0wsFG1f-GRqKZys 
+Link to the Concept Map: https://drive.google.com/file/d/1GLXAjwY9xmQ_u3YMg0wsFG1f-GRqKZys/view?usp=sharing
 
 
 
