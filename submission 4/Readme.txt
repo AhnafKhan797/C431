@@ -8,7 +8,8 @@ Conference / Paper submission login URL:
 Paper title:
 Automatic summerization
 
-Paper :  https://drive.google.com/drive/folders/1XiKpip64vbMQaIgtZ2J3dDBS5espn4DY?usp=sharing 
+Paper :  
+https://drive.google.com/file/d/1CLky0CMPtNtoZ-vx8O8HZKPvrDqhdt2-/view?usp=sharing
 
 
 Paper submission date (to workshop/conference):
