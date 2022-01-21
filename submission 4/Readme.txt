@@ -6,7 +6,7 @@ Conference / Paper submission login URL:
 
 
 Paper title:
-Automatic summerization
+Automatic text summerization
 
 Paper :  
 https://drive.google.com/file/d/1s7UILMdqfeI-rjQdY9Z8-N1Vvo_Gx3_D/view?usp=sharing
