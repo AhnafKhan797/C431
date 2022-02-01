@@ -9,7 +9,7 @@ Paper title:
 Automatic text summerization
 
 Paper :  
-https://drive.google.com/file/d/1ERQEHUMfoPq3_J_FMXy8coL3DPDrE2Fp/view?usp=sharing
+https://drive.google.com/file/d/1lWpuInvLjpT98u4CAa_QmF4f4gZjwijg/view?usp=sharing
 
 
 Paper submission date (to workshop/conference):
