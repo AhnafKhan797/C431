@@ -2,7 +2,8 @@
 Unlisted youtube video: 
 
 
-Conference / Paper submission login URL:
+Conference / Paper submission login URL: 
+https://easychair.org/conferences/overview?a=28037832
 
 
 Paper title:
