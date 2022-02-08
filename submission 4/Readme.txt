@@ -13,10 +13,10 @@ Paper :
 https://drive.google.com/file/d/1lWpuInvLjpT98u4CAa_QmF4f4gZjwijg/view?usp=sharing
 
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 6th february 2022
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID:  245
 
 
 Conference URL:
